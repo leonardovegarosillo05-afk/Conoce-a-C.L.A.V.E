@@ -23,6 +23,6 @@ Abre http://127.0.0.1:4180. Para construir: node scripts/build.mjs.
 - plan.html: versión de lectura e impresión del plan.
 - plan-data.js: documento Word codificado, descargado solo al solicitarlo.
 
-Los perfiles muestran iniciales hasta contar con fotografías autorizadas del equipo. No se inventan biografías, testimonios ni resultados. No hay formularios que recojan datos, cuentas ni rastreadores añadidos. Las herramientas externas aplican sus propias condiciones.
+Los perfiles muestran las fotografías proporcionadas por el equipo y los nombres completos de sus integrantes. No se inventan biografías, testimonios ni resultados. No hay formularios que recojan datos, cuentas ni rastreadores añadidos. Las herramientas externas aplican sus propias condiciones.
 
 El cronograma y las metas de 2027 son propuestos y requieren coordinación institucional. El sitio distingue las herramientas disponibles de los proyectos del plan.
