@@ -1,5 +1,5 @@
 # Conoce a C.L.A.V.E.
-Página informativa de la Lista N.° 3 para el Municipio Escolar. Presenta al equipo, siete propuestas, enlaces a las dos herramientas disponibles y el plan de trabajo.
+Página informativa de la Lista N.° 3 para el Municipio Escolar. Presenta al equipo, siete propuestas, acceso a Revisión COAR y a la interfaz beta de Banco COAR y el plan de trabajo.
 
 ## Netlify
 - Rama: main
